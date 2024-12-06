@@ -1,0 +1,7 @@
+C:\Users\bvaidyanathan\Downloads\sonar-scanning-examples-master\sonar-scanning-examples-master\sonar-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe.config
+C:\Users\bvaidyanathan\Downloads\sonar-scanning-examples-master\sonar-scanning-examples-master\sonar-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe
+C:\Users\bvaidyanathan\Downloads\sonar-scanning-examples-master\sonar-scanning-examples-master\sonar-scanner-msbuild\CSharpProject\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.pdb
+C:\Users\bvaidyanathan\Downloads\sonar-scanning-examples-master\sonar-scanning-examples-master\sonar-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\bvaidyanathan\Downloads\sonar-scanning-examples-master\sonar-scanning-examples-master\sonar-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\bvaidyanathan\Downloads\sonar-scanning-examples-master\sonar-scanning-examples-master\sonar-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.exe
+C:\Users\bvaidyanathan\Downloads\sonar-scanning-examples-master\sonar-scanning-examples-master\sonar-scanner-msbuild\CSharpProject\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.pdb

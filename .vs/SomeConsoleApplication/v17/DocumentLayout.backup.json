@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bvaidyanathan\\Downloads\\sonar-scanning-examples-master\\sonar-scanning-examples-master\\sonar-scanner-msbuild\\CSharpProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96FED58B-6B13-4B22-9D88-8CA270701FF5}|SomeConsoleApplication\\SomeConsoleApplication.csproj|c:\\users\\bvaidyanathan\\downloads\\sonar-scanning-examples-master\\sonar-scanning-examples-master\\sonar-scanner-msbuild\\csharpproject\\someconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96FED58B-6B13-4B22-9D88-8CA270701FF5}|SomeConsoleApplication\\SomeConsoleApplication.csproj|solutionrelative:someconsoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bvaidyanathan\\Downloads\\sonar-scanning-examples-master\\sonar-scanning-examples-master\\sonar-scanner-msbuild\\CSharpProject\\SomeConsoleApplication\\Program.cs",
+              "RelativeDocumentMoniker": "SomeConsoleApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\bvaidyanathan\\Downloads\\sonar-scanning-examples-master\\sonar-scanning-examples-master\\sonar-scanner-msbuild\\CSharpProject\\SomeConsoleApplication\\Program.cs",
+              "RelativeToolTip": "SomeConsoleApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T20:24:51.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
