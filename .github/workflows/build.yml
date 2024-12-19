@@ -36,4 +36,4 @@ jobs:
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
-        run: mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.projectKey=BHVSonarGit_CSharpProjectNew_14820952-d171-4d63-a5c4-4b22f66314a8 -Dsonar.projectName='CSharpProjectNew'
+        run: mvn clean verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.projectKey=BHVSonarGit_CSharpProjectNew_14820952-d171-4d63-a5c4-4b22f66314a8 -Dsonar.projectName='CSharpProjectNew'
